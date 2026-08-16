@@ -22,7 +22,7 @@ posture throughout the day.
 ## Install from source
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/posture-pal.git
+git clone https://github.com/digitaldiana/posture-pal.git
 cd posture-pal
 ./install.sh
 ```
